@@ -1,4 +1,4 @@
-# Covid-19_Case-Study-Using-MySQL
+# Covid-19-Case-Study-Using-MySQL
 
 Context
 This dataset provides a data of COVID-19 reported cases including cured and death information of states of India.
